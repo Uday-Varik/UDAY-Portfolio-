@@ -1,4 +1,7 @@
 /* Global styles and CSS variables for light and dark themes */
+
+/* Tailwind directives removed. If using Tailwind, ensure your build tool is configured correctly. */
+
 :root {
   --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
   --color-background: #ffffff;
